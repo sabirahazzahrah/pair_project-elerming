@@ -1,0 +1,22 @@
+[
+    {
+        "course" : "Biology",
+        "InstructorId" : 5
+    },
+    {
+        "course" : "Chemistry",
+        "InstructorId" : 3
+    },
+    {
+        "course" : "Civic Education",
+        "InstructorId" : 2
+    },
+    {
+        "course" : "Mathematic",
+        "InstructorId" : 1
+    },
+    {
+        "course" : "Physics",
+        "InstructorId" : 4
+    }
+]
